@@ -1,0 +1,7 @@
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\publish\FootballApp.exe
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\publish\appsettings.Development.json
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\publish\appsettings.json
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\publish\FootballApp.dll
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\publish\FootballApp.deps.json
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\publish\FootballApp.runtimeconfig.json
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\publish\FootballApp.pdb

@@ -1,0 +1,13 @@
+﻿@page
+@model FootballApp.Pages.IndexModel
+
+<h1>Liste des Équipes de Football</h1>
+
+<ul>
+    @foreach (var team in Model.Teams)
+    {
+        <li>
+            <a href="/Details?id=@team.Id">@team.Name</a>
+        </li>
+    }
+</ul>

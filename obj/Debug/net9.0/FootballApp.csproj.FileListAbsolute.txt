@@ -1,0 +1,2 @@
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\bin\Debug\net9.0\FootballApp.exe
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\bin\Debug\net9.0\FootballApp.dll

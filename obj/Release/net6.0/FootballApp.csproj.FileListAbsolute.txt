@@ -1,0 +1,7 @@
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\obj\Release\net6.0\FootballApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\obj\Release\net6.0\FootballApp.AssemblyInfoInputs.cache
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\obj\Release\net6.0\FootballApp.AssemblyInfo.cs
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\obj\Release\net6.0\FootballApp.csproj.CoreCompileInputs.cache
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\obj\Release\net6.0\FootballApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\obj\Release\net6.0\FootballApp.RazorAssemblyInfo.cache
+C:\Users\jilla\Desktop\MASTER IL\web API\FootballApp\obj\Release\net6.0\FootballApp.RazorAssemblyInfo.cs

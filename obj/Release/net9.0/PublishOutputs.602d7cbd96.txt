@@ -1,0 +1,13 @@
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\FootballApp.exe
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\publish\web.config
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\appsettings.Development.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\appsettings.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\publish\appsettings.Development.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\publish\appsettings.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\publish\FootballApp.deps.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\publish\FootballApp.runtimeconfig.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\publish\FootballApp.staticwebassets.endpoints.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\FootballApp.dll
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\FootballApp.deps.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\FootballApp.runtimeconfig.json
+C:\Users\jilla\Desktop\MASTER IL\web API\publish\FootballApp.pdb
