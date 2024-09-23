@@ -1,0 +1,45 @@
+# FootballApp
+
+FootballApp est une application web développée en **.NET Core 6.0** qui permet de consulter la liste des équipes de football et leurs détails. Ce projet a été développé en utilisant **ASP.NET Core** avec des Razor Pages et est destiné à être déployé sur **Azure App Service**.
+
+## Fonctionnalités
+
+- Affichage de la liste des équipes de football.
+- Consultation des détails d'une équipe, incluant le prochain match.
+- Utilisation de **Razor Pages** pour la gestion des pages et de la navigation.
+
+## Technologies utilisées
+
+- **.NET Core 6.0** : Le framework principal de l'application.
+- **ASP.NET Core** : Utilisé pour le back-end avec Razor Pages.
+- **Visual Studio Code** : Environnement de développement.
+- **Azure App Service** : Service d'hébergement cible pour l'application (le déploiement n'a pas encore abouti).
+
+## Prérequis
+
+Pour exécuter ce projet localement, vous aurez besoin de :
+
+- **.NET SDK 6.0** ou une version supérieure, disponible [ici](https://dotnet.microsoft.com/download/dotnet/6.0).
+- Un éditeur de texte comme **Visual Studio Code** 
+- Un compte **Azure** 
+
+
+## en local 
+
+dotnet restore
+
+dotnet run
+
+http://localhost:5000
+
+## sur azure
+
+https://footballappweb.azurewebsites.net/   
+
+je n'ai pas réussi, j'ai tout essayé pour résoudre l'erreur mais ca ne fonctionne pas, je m'en excuse. 
+
+
+
+lien github : https://github.com/chay31/FootballApp
+
+
